@@ -1,2 +1,2 @@
 # encryptor-decryptor
-Encrypt and Decrypt your message
+Encrypt and Decrypt your message using c++
